@@ -1,6 +1,7 @@
 # Import Libraries
 import streamlit as st
-import pickle 
+import pickle
+import pandas as pd 
 
 # Define Heading
 st.title("Salary Prediction Model 💼")
@@ -16,10 +17,10 @@ userInput = st.number_input("Experience Years", min_value=0.0, max_value=50.0, v
 # Predict Salary on Button Click
 if st.button("Predict Salary"):
 
-    experience = [[userInput]]
+    experience = pd.DataFrame([[userInput]], columns=["Experience Years"])
 
     # Make the prediction
     prediction = model.predict(experience)
     
     # Display the result
-    st.success(f"Estimated Salary: PKR {prediction[0]}")
+    st.success(f"Estimated Salary: PKR {prediction[0][0]:,.0f}")
