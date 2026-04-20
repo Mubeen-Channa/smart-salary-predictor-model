@@ -51,30 +51,36 @@ This project demonstrates a simple **Linear Regression** model built with **scik
 
 Thanks to everyone who’s contributed!
 
-- **Mubeen Channa** ([@Mubeen-Channa](https://github.com/Mubeen-Channa)) – Project maintainer  
-- **Irfan Narejo** ([@meet-irfan](https://github.com/meet-irfan)) – Boot accuracy to 90% (+4%), cut MSE to 31 (from 48)
+- **Mubeen Channa** ([@Mubeen-Channa](https://github.com/Mubeen-Channa)) – Project Maintainer  
+- **Irfan Narejo** ([@meet-irfan](https://github.com/meet-irfan)) – Boosted accuracy to 90% (+4%) and reduced MSE from 48 to 31  
+- **Muhammad Younis** ([@YounisJ](https://github.com/YounisJ)) – Updated salary dataset with new experience and compensation entries  
 
 Feel free to add yourself here if you make a contribution!
 
-## 🙏 Contributors
-
-Thanks to everyone who’s contributed!
+<br>
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://github.com/Mubeen-Channa">
-        <img src="https://github.com/Mubeen-Channa.png?size=100" width="100px;" alt="Mubeen Channa"/><br />
+        <img src="https://github.com/Mubeen-Channa.png?size=100" width="100px;" style="border-radius:50%;" alt="Mubeen Channa"/><br />
         <sub><b>Mubeen Channa</b></sub>
       </a><br />
-      <i>Project maintainer</i>
+      <i>Project Lead & Maintainer — Designed, built, and deployed the model</i>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://github.com/meet-irfan">
-        <img src="https://github.com/meet-irfan.png?size=100" width="100px;" alt="Irfan Narejo"/><br />
+        <img src="https://github.com/meet-irfan.png?size=100" width="100px;" style="border-radius:50%;" alt="Irfan Narejo"/><br />
         <sub><b>Irfan Narejo</b></sub>
       </a><br />
-      <i>Boot accuracy to 90% (+4%), cut MSE to 31 (from 48)</i>
+      <i>Boosted accuracy to 90% (+4%) and reduced MSE from 48 to 31</i>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/YounisJ">
+        <img src="https://github.com/YounisJ.png?size=100" width="100px;" style="border-radius:50%;" alt="Muhammad Younis"/><br />
+        <sub><b>Muhammad Younis</b></sub>
+      </a><br />
+      <i>Updated salary dataset with new experience and compensation entries</i>
     </td>
   </tr>
 </table>
